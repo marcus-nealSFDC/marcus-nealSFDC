@@ -11,8 +11,8 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 ## 🔧 Technologies I use
 
 ### Core Stack
-[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1a73e8?logo=google&logoColor=white)](https://workspace.google.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
 
