@@ -19,7 +19,7 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 
 
 <details>
-<summary><b>Salesforce (selected)</b></summary>
+<summary><b>Salesforce</b></summary>
 
 [![Apex](https://img.shields.io/badge/Apex-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
 [![LWC](https://img.shields.io/badge/LWC-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/component-library/overview/components)
@@ -30,7 +30,7 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 </details>
 
 <details>
-<summary><b>AWS (selected)</b></summary>
+<summary><b>AWS</b></summary>
 
 [![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)
 [![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
