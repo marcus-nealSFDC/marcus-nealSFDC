@@ -16,6 +16,19 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 [![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1a73e8?logo=google&logoColor=white)](https://workspace.google.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)](https://openai.com/)
 
+
+
+<details>
+<summary><b>Salesforce (selected)</b></summary>
+
+[![Apex](https://img.shields.io/badge/Apex-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
+[![LWC](https://img.shields.io/badge/LWC-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/component-library/overview/components)
+[![Flows](https://img.shields.io/badge/Flows-00A1E0?logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/content/learn/modules/flow-builder)
+[![Agentforce](https://img.shields.io/badge/Agentforce-111827?logo=salesforce&logoColor=white)](https://www.salesforce.com/products/agentforce/)
+[![Data Cloud](https://img.shields.io/badge/Data%20Cloud-111827?logo=salesforce&logoColor=white)](https://www.salesforce.com/products/data-cloud/)
+
+</details>
+
 <details>
 <summary><b>AWS (selected)</b></summary>
 
@@ -30,16 +43,6 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 
 </details>
 
-<details>
-<summary><b>Salesforce (selected)</b></summary>
-
-[![Apex](https://img.shields.io/badge/Apex-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
-[![LWC](https://img.shields.io/badge/LWC-00A1E0?logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/component-library/overview/components)
-[![Flows](https://img.shields.io/badge/Flows-00A1E0?logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/content/learn/modules/flow-builder)
-[![Agentforce](https://img.shields.io/badge/Agentforce-111827?logo=salesforce&logoColor=white)](https://www.salesforce.com/products/agentforce/)
-[![Data Cloud](https://img.shields.io/badge/Data%20Cloud-111827?logo=salesforce&logoColor=white)](https://www.salesforce.com/products/data-cloud/)
-
-</details>
 
 <details>
 <summary><b>Google Workspace</b></summary>
