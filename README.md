@@ -87,8 +87,8 @@ My name is **Marcus Neal** — a hands-on Technical Architect building AI + Clou
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/YOUR-HANDLE  
-- Email: your.name@email.com
+- LinkedIn: www.linkedin.com/in/marcus-neal-50994a139
+
 
 ---
 
