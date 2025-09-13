@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is **Marcus Neal** — a hands-on Technical Architect building AI + Cloud solutions across  **Salesforce**,**AWS**,**Google Workspace**, and **OpenAI**. I love building new things and turning ideas into reality, automating the boring stuff, and turning ideas into working products.
+My name is **Marcus Neal** — a hands-on Technical Architect building AI + Cloud solutions across  **Salesforce**, **AWS**, **Google Workspace**, and **OpenAI**. I love building new things and turning ideas into reality, automating the boring stuff, and turning ideas into working products.
 
 - 🔭 Current focus: Agentic experiences (Agentforce + OpenAI), data pipelines (S3 → DynamoDB → AI), and secure PII-aware document workflows.
 - 🧩 I enjoy crisp architectures, readable code, and measurable outcomes.
